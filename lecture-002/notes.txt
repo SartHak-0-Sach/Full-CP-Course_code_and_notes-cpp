@@ -1,0 +1,1 @@
+In this lecture all that was told was to not include all the header files according to requirement but rather include the bits/stdc++.h header file as it contains literally all header files required in contests that you can think of.
