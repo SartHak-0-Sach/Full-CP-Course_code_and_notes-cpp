@@ -1,0 +1,1 @@
+In this lecture all we did was to setup our coding setup in sublime text for Linux, Windows and MacOS users as preferred by Luv himself all his programming journey because it is more convinient to see all 3 input output and code on same screen.
