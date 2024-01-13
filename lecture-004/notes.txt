@@ -1,0 +1,3 @@
+In this lecture, we started learning C++ from absolute basics.
+
+In this lecture, we learnt about header files(all can be replaced by one that is bits/stdc++.h), variables, datatypes and their sizes when storing them in memory, what are operators and their different types, difference between pre-increment and post-increment operators, ASCII values and why they exist(to give uniformity and make a single code common unviersally everywhere for all computers and machines) and much more fundamental stuff. Checkout notes of Love babbar series lec-1 where everything has been discussed in detail.
